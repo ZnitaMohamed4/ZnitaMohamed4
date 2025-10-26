@@ -117,20 +117,6 @@ class AIEngineer:
 
 ---
 
-## 📈 GitHub Stats
-
-<div align="center">
-  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=znita-mohamed&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=znita-mohamed&layout=compact&theme=radical&hide_border=true)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=znita-mohamed&theme=radical&hide_border=true)
-
-</div>
-
----
-
 ## 🎓 Education & Certifications
 
 - 🎯 **Master in AI & Data Science** - FST Tanger (2024 - Present)
