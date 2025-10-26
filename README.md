@@ -2,7 +2,7 @@
 
 <div align="center">
   
-### AI Engineer & Data Scientist | NLP & GenAI Specialist
+### AI Engineer & Data Scientist | NLP & GenAI
 
 🎓 Master's Student in AI & Data Science @ FST Tanger  
 🤖 Building intelligent systems with LangChain, RAG & Multi-Agent Architectures  
